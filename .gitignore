@@ -1,4 +1,5 @@
 build
 dist
 *.egg-info
-forestsim/pycache/*
+forestsim/pycache/*dist_mat.tsv
+sim_mat.csv
